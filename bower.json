@@ -1,0 +1,7 @@
+{
+  "name": "statgen",
+  "private": true,
+  "dependencies": {
+    "MathJax": "~2.5.3"
+  }
+}
